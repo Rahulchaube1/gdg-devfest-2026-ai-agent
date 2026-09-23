@@ -1,0 +1,2 @@
+# Framework-neutral demo: standard library only.
+# Optional live integrations can be added for Gemini/ADK during implementation.

@@ -1,0 +1,6 @@
+GDG Chennai DevFest 2026 Speaker Package
+Speaker: Rahul Chaube
+Session: From LLM to Reliable AI Agent
+Format: General Technical Talk
+Level: Intermediate
+Prepared: September 2026
