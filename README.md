@@ -2,7 +2,6 @@
 
 ### Building, Securing and Scaling Open-Source AI Systems
 
-[![GDG Chennai DevFest 2026](https://img.shields.io/badge/GDG%20Chennai-DevFest%202026-111111?style=flat-square)](https://github.com/Rahulchaube1/gdg-devfest-2026-ai-agent)
 [![Level](https://img.shields.io/badge/level-intermediate-111111?style=flat-square)](https://github.com/Rahulchaube1/gdg-devfest-2026-ai-agent)
 [![Format](https://img.shields.io/badge/format-general%20technical%20talk-111111?style=flat-square)](https://github.com/Rahulchaube1/gdg-devfest-2026-ai-agent)
 
