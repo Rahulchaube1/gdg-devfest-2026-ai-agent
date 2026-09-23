@@ -245,6 +245,4 @@ The demo and supporting code are released under the [MIT License](LICENSE).
 
 ## Status
 
-**CFP / Speaker Session Repository — GDG Chennai DevFest 2026**
-
 Prepared by Rahul Chaube · September 2026
